@@ -9,7 +9,6 @@ libraryDependencies ++= Seq(
   "org.seleniumhq.selenium" % "selenium-firefox-driver" % "2.53.0",
   "org.seleniumhq.selenium" % "selenium-htmlunit-driver" % "2.52.0",
   "org.scalatest" %% "scalatest" % "2.2.1",
-  //"org.scala-tools.testing" %% "scalacheck" % "1.9" % "test",
   "org.pegdown" % "pegdown" % "1.1.0" % "test",
   "org.scala-lang" % "scala-library" % "2.10.4",
   "org.scalaj" %% "scalaj-http" % "1.1.0",
