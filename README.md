@@ -1,4 +1,4 @@
-# tapost-2015-accessibility
+# Accessibility test automation
 Sharing experience on accessibility test automation
 
 How to run the example:
